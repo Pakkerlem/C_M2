@@ -26,17 +26,6 @@ void PrintArray(int[,] arr)
         Console.WriteLine();
     }
 }
-// void SmallestSumElements(int[,] arr)
-// {
-//     int[] tempArray = new int[arr.GetLength(1)];
-
-//     for (int j = 0; j < arr.GetLength(1); j++)
-//         {
-
-//         }
-
-
-// }
 
 void SmallestSumElements(int[,] arr)
 {
