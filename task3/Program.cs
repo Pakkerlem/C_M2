@@ -46,7 +46,6 @@ void SmallestSumElements(int[,] arr)
     {
         int Sum = 0;
 
-
         for (int j = 0; j < arr.GetLength(1); j++)
         {
             Sum += arr[i, j];
